@@ -1,0 +1,135 @@
+{
+  "name": " SWaT工业水厂",
+  "children": [
+    {
+      "name": "厂1",
+      "children": [
+        {
+          "name": "DTU",
+          "children": [
+            {"name": "4G-LTE DTU", "value": "3"},
+            {"name": "DTU-H10X", "value": "5"},
+            {"name": "DTU Super E61", "value": "8"}
+          ]
+        },
+        {"name": "PLC",
+          "children": [
+            {"name": "PLC Super E50", "value": "12"},
+            {"name": "S7-400", "value": "5"},
+            {"name": "PLC Super E61", "value": "32"}
+          ]
+        },
+        {"name": "DSC",
+          "children": [
+            {"name": "DST 2200", "value": "4"},
+            {"name": "Setline DSC", "value": "2"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "厂2",
+      "children": [
+        {
+          "name": "DTU",
+          "children": [
+            {"name": "4G-LTE DTU", "value": "3"},
+            {"name": "DTU-H10X", "value": "5"},
+            {"name": "DTU Super E61", "value": "8"}
+          ]
+        },
+        {"name": "PLC",
+          "children": [
+            {"name": "PLC Super E50", "value": "12"},
+            {"name": "S7-400", "value": "5"},
+            {"name": "PLC Super E61", "value": "32"}
+          ]
+        },
+        {"name": "DSC",
+          "children": [
+            {"name": "DST 2200", "value": "4"},
+            {"name": "Setline DSC", "value": "2"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "厂3",
+      "children": [
+        {
+          "name": "DTU",
+          "children": [
+            {"name": "4G-LTE DTU", "value": "3"},
+            {"name": "DTU-H10X", "value": "5"},
+            {"name": "DTU Super E61", "value": "8"}
+          ]
+        },
+        {"name": "PLC",
+          "children": [
+            {"name": "PLC Super E50", "value": "12"},
+            {"name": "S7-400", "value": "5"},
+            {"name": "PLC Super E61", "value": "32"}
+          ]
+        },
+        {"name": "DSC",
+          "children": [
+            {"name": "DST 2200", "value": "4"},
+            {"name": "Setline DSC", "value": "2"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "厂4",
+      "children": [
+        {
+          "name": "DTU",
+          "children": [
+            {"name": "4G-LTE DTU", "value": "3"},
+            {"name": "DTU-H10X", "value": "5"},
+            {"name": "DTU Super E61", "value": "8"}
+          ]
+        },
+        {"name": "PLC",
+          "children": [
+            {"name": "PLC Super E50", "value": "12"},
+            {"name": "S7-400", "value": "5"},
+            {"name": "PLC Super E61", "value": "32"}
+          ]
+        },
+        {"name": "DSC",
+          "children": [
+            {"name": "DST 2200", "value": "4"},
+            {"name": "Setline DSC", "value": "2"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "厂5",
+      "children": [
+        {
+          "name": "DTU",
+          "children": [
+            {"name": "4G-LTE DTU", "value": "3"},
+            {"name": "DTU-H10X", "value": "5"},
+            {"name": "DTU Super E61", "value": "8"}
+          ]
+        },
+        {"name": "PLC",
+          "children": [
+            {"name": "PLC Super E50", "value": "12"},
+            {"name": "S7-400", "value": "5"},
+            {"name": "PLC Super E61", "value": "32"}
+          ]
+        },
+        {"name": "DSC",
+          "children": [
+            {"name": "DST 2200", "value": "4"},
+            {"name": "Setline DSC", "value": "2"}
+          ]
+        }
+      ]
+    }
+  ]
+}
