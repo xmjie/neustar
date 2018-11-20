@@ -1,8 +1,8 @@
 {
-  "name": " SWaT工业水厂",
+  "name": " SWaT工业水厂-001分厂",
   "children": [
     {
-      "name": "厂1",
+      "name": "车间1",
       "children": [
         {
           "name": "DTU",
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "name": "厂2",
+      "name": "车间2",
       "children": [
         {
           "name": "DTU",
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "厂3",
+      "name": "车间3",
       "children": [
         {
           "name": "DTU",
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "厂4",
+      "name": "车间4",
       "children": [
         {
           "name": "DTU",
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "name": "厂5",
+      "name": "车间5",
       "children": [
         {
           "name": "DTU",
